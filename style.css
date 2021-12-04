@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+    color: lightgray;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .title{
+    font-size: 50px;
+    font-weight: bold;
+    text-shadow: 2px 1px darkbluee;
+    border-bottom: 4px solid darkblue; 
+  }
+  
+  .txt{
+    font-size: 25px;
+  }
+  
+  .input-main{
+    padding: 8px 2px;
+    border-radius: 4px;
+    border: none;
+    background: lightgray;
+    margin-bottom: 2em;  
+    cursor: pointer;
+  }
+  
+  .btn{
+    padding: 12px;
+    border-radius: 4px;
+    border: none;
+    background: lightblue;
+    margin-bottom: 2em; 
+    font-weight: bold;
+  }
+  
+  .btn:hover{
+    background-color: darkblue;
+    cursor: pointer;
+    color: white;
+  }
+  
+  .resultado{
+    font-size: 25px;
+    font-weight: bold;
+  }
